@@ -1,0 +1,2511 @@
+Added file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+    [mkdir] Created dir: E:\hh\workspace\GQ\bin\classes
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+2397 KB/s (4790 bytes in 0.001s)
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=
+
+Time: 0.001
+
+
+
+OK (0 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2379 KB/s (4790 bytes in 0.001s)
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=
+
+Time: 0.002
+
+
+
+OK (0 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2412 KB/s (4823 bytes in 0.001s)
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=
+
+Time: 0.002
+
+
+
+OK (0 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+4912 KB/s (4920 bytes in 0.000s)
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=
+
+Time: 0.002
+
+
+
+OK (0 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 3 source files to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2459 KB/s (4918 bytes in 0.001s)
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=
+
+Time: 0.002
+
+
+
+OK (0 tests)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 2 source files to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2499 KB/s (4998 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.802
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2500 KB/s (5000 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, adb shell am start -ncom.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:125)
+
+	at com.publictest.publicBase.findapp(publicBase.java:23)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 19 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.018
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+4997 KB/s (5000 bytes in 0.000s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, adb shell am start -ncom.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:125)
+
+	at com.publictest.publicBase.findapp(publicBase.java:23)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 19 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+713 KB/s (4999 bytes in 0.006s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, adb shell am start -n com.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:125)
+
+	at com.publictest.publicBase.findapp(publicBase.java:23)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 19 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.011
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2483 KB/s (4969 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, adb, shell, am, start, -n, com.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:23)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2486 KB/s (4970 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd.exe, /c, adb, shell, am, start, -n, com.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:23)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.027
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2488 KB/s (4980 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [dir] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:24)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2487 KB/s (4974 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, dir] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:24)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.012
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+2474 KB/s (4947 bytes in 0.001s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+---工作空间：	
+
+/
+
+----execCmd:  cmd /c adb shell am start -n com.condenast.gq24/.splash.WelcomeActivity
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, adb, shell, am, start, -n, com.condenast.gq24/.splash.WelcomeActivity] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.UiAutomatorHelper.execCmd(UiAutomatorHelper.java:189)
+
+	at com.publictest.publicBase.findapp(publicBase.java:22)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 21 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.011
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+4950 KB/s (4948 bytes in 0.000s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+---工作空间：	
+
+/
+
+----execCmd:  adb shell am start -n com.condenast.gq24/.splash.WelcomeActivity
+
+* daemon not running. starting it now on port 5038 *
+
+java.io.FileNotFoundException: /runlog.log: open failed: EROFS (Read-only file system)
+
+	at libcore.io.IoBridge.open(IoBridge.java:409)
+
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:88)
+
+	at com.publictest.UiAutomatorHelper.saveToFile(UiAutomatorHelper.java:243)
+
+	at com.publictest.UiAutomatorHelper.execCmd(UiAutomatorHelper.java:197)
+
+	at com.publictest.publicBase.findapp(publicBase.java:22)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: libcore.io.ErrnoException: open failed: EROFS (Read-only file system)
+
+	at libcore.io.Posix.open(Native Method)
+
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+
+	at libcore.io.IoBridge.open(IoBridge.java:393)
+
+	... 20 more
+
+* daemon started successfully *
+
+java.io.FileNotFoundException: /runlog.log: open failed: EROFS (Read-only file system)
+
+	at libcore.io.IoBridge.open(IoBridge.java:409)
+
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:88)
+
+	at com.publictest.UiAutomatorHelper.saveToFile(UiAutomatorHelper.java:243)
+
+	at com.publictest.UiAutomatorHelper.execCmd(UiAutomatorHelper.java:197)
+
+	at com.publictest.publicBase.findapp(publicBase.java:22)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: libcore.io.ErrnoException: open failed: EROFS (Read-only file system)
+
+	at libcore.io.Posix.open(Native Method)
+
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+
+	at libcore.io.IoBridge.open(IoBridge.java:393)
+
+	... 20 more
+
+Starting: Intent { cmp=com.condenast.gq24/.splash.WelcomeActivity }
+
+java.io.FileNotFoundException: /runlog.log: open failed: EROFS (Read-only file system)
+
+	at libcore.io.IoBridge.open(IoBridge.java:409)
+
+	at java.io.FileOutputStream.<init>(FileOutputStream.java:88)
+
+	at com.publictest.UiAutomatorHelper.saveToFile(UiAutomatorHelper.java:243)
+
+	at com.publictest.UiAutomatorHelper.execCmd(UiAutomatorHelper.java:197)
+
+	at com.publictest.publicBase.findapp(publicBase.java:22)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: libcore.io.ErrnoException: open failed: EROFS (Read-only file system)
+
+	at libcore.io.Posix.open(Native Method)
+
+	at libcore.io.BlockGuardOs.open(BlockGuardOs.java:110)
+
+	at libcore.io.IoBridge.open(IoBridge.java:393)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 3.782
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+879 KB/s (4965 bytes in 0.005s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+Error!
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.026
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+693 KB/s (4971 bytes in 0.007s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+Error!
+
+java.io.IOException: Error running exec(). Command: [dir] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:25)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.055
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+486 KB/s (4983 bytes in 0.009s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+Error!
+
+java.io.IOException: Error running exec(). Command: [cmd, /c, ping, www.baidu.com] Working Directory: null Environment: null
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:211)
+
+	at java.lang.Runtime.exec(Runtime.java:170)
+
+	at java.lang.Runtime.exec(Runtime.java:243)
+
+	at java.lang.Runtime.exec(Runtime.java:186)
+
+	at com.publictest.publicBase.findapp(publicBase.java:26)
+
+	at com.gq.gqtest.openfindapp(gqtest.java:9)
+
+	at java.lang.reflect.Method.invokeNative(Native Method)
+
+	at java.lang.reflect.Method.invoke(Method.java:525)
+
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+
+	at junit.framework.TestResult.run(TestResult.java:118)
+
+	at junit.framework.TestCase.run(TestCase.java:124)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:235)
+
+	at dalvik.system.NativeStart.main(Native Method)
+
+Caused by: java.io.IOException: No such file or directory
+
+	at java.lang.ProcessManager.exec(Native Method)
+
+	at java.lang.ProcessManager.exec(ProcessManager.java:209)
+
+	... 20 more
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.078
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 4 seconds
+1938 KB/s (4973 bytes in 0.002s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=openfindapp
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 0.055
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 4 source files to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+2204 KB/s (5019 bytes in 0.002s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 2.514
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+    [javac] Compiling 1 source file to E:\hh\workspace\GQ\bin\classes
+    [javac] ����: [options] Դֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ŀ��ֵ1.5�ѹ�ʱ, ����δ�����з��а���ɾ��
+    [javac] ����: [options] Ҫ�����й��ѹ�ʱѡ��ľ���, ��ʹ�� -Xlint:-options��
+    [javac] 3 ������
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 3 seconds
+543 KB/s (5016 bytes in 0.009s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.845
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 2 seconds
+407 KB/s (5016 bytes in 0.012s)
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=
+
+com.gq.gqtest:
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 1
+
+INSTRUMENTATION_STATUS: current=1
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+
+INSTRUMENTATION_STATUS: class=com.gq.gqtest
+
+INSTRUMENTATION_STATUS: stream=.
+
+INSTRUMENTATION_STATUS: numtests=1
+
+INSTRUMENTATION_STATUS: test=test
+
+INSTRUMENTATION_STATUS_CODE: 0
+
+INSTRUMENTATION_STATUS: stream=
+
+Test results for WatcherResultPrinter=.
+
+Time: 1.846
+
+
+
+OK (1 test)
+
+
+
+
+
+INSTRUMENTATION_STATUS_CODE: -1
+
+Updated file E:\hh\workspace\GQ\build.xml
+Buildfile: E:\hh\workspace\GQ\build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.1.0
+ [checkenv] Installed at E:\hh\software\adt-bundle-windows-x86_64_20140101\sdk
+
+-build-setup:
+     [echo] Resolving Build Target for test...
+[getuitarget] Project Target:   Android 4.3
+[getuitarget] API level:        18
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: E:\hh\workspace\GQ\bin\classes
+      [dex] Found Deleted Target File
+      [dex] Converting compiled files and external libraries into E:\hh\workspace\GQ\bin\classes.dex...
+
+-post-dex:
+
+-jar:
+      [jar] Building jar: E:\hh\workspace\GQ\bin\test.jar
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 1 second
+error: device not found
+error: device not found
